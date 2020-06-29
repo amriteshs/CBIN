@@ -1,7 +1,7 @@
-# COMP9321 Assignment 3
+# Heart Disease Web Application
 
-## Project Description
-This assignment produces a web application which contains different analysis/task on the ”processed.cleveland.data” data set.
+## Description
+Produce a web application which contains different analysis/task on the ”processed.cleveland.data” data set.
 
 The main functions of the web application are the following:
 1) Visualise the statistics for basic statistics of a dataset by groups of
